@@ -1,0 +1,19 @@
+heart_frequency_calculator/
+│
+├── lib/                    # Main app directory
+│   ├── models/             # Data models for heart frequency calculations
+│   ├── screens/            # UI screens of the app
+│   ├── widgets/            # Reusable UI components
+│   ├── utils/              # Utility functions (e.g., calculations, formatters)
+│   ├── services/           # Logic for data persistence or external API calls
+│   ├── main.dart           # App entry point
+│
+├── test/                   # Unit and widget tests
+│
+├── assets/                 # Static resources
+│   ├── images/             # Images for the UI
+│   ├── fonts/              # Custom fonts
+│
+├── pubspec.yaml            # Flutter project configuration
+│
+└── README.md               # Project overview
